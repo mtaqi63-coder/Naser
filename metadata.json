@@ -1,0 +1,6 @@
+{
+  "name": "طريق ناصر: مغامرة النخيل ثلاثية الأبعاد",
+  "description": "لعبة ثلاثية الأبعاد لشخصية ناصر في طريق زراعي بين النخيل، يواجه الموالين والمعادين والعقبات بحكمة وسرعة بديهة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
